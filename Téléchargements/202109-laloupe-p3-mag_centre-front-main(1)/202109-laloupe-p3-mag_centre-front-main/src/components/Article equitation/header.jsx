@@ -1,13 +1,26 @@
 import React from "react";
-import "./titre.css";
+import "./header.css";
 
 const titre = () => {
    return (
        <div className="main-titre">
            <div className="exemple">
-               
+               <h1> Header</h1>
            </div>
        </div>
         
     )
 }
+
+
+
+
+
+
+
+
+
+
+
+
+export default header;
